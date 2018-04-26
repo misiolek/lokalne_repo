@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524746863789.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3266172418",
+    "id" : "6909E756",
+    "lastKnownWriteTime" : 1524747004,
+    "last_content_update" : 1524747004208,
+    "path" : "~/lokalne_repo/skrypt.R",
+    "project_path" : "skrypt.R",
+    "properties" : {
+        "cursorPosition" : "8,29",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524746870847.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2289013473",
+    "id" : "2AA64185",
+    "lastKnownWriteTime" : 1524746887,
+    "last_content_update" : 1524746887326,
+    "path" : "~/lokalne_repo/text.txt",
+    "project_path" : "text.txt",
+    "properties" : {
+        "cursorPosition" : "0,21",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
